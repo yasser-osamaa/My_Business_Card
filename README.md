@@ -14,8 +14,6 @@ and ListTile with Card widget to make shape like container but card widget it's 
 focus on attributes used in this Widgets <br><br>
 </b>
 <br><br>
-<br>
-
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
